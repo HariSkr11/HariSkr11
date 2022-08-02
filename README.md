@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **epicgeek11@gmail.com**
 
-- ⚡ My Motto is ** while(!(succeed=try())**
+- ⚡ My Motto is **while(!(succeed=try())**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
