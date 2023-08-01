@@ -1,6 +1,6 @@
 <h1 align="center">Hello World from Hari Sankar 👋</h1>
 💫 About Me:
-<br><br>Who Am I: Being A Curious code mage, I explore programming's wonders, aligning neural networks like stars. With zeal, I seek knowledge in the universe of code. 🌌✨<br><br>
+<br><br>Being A Curious code mage, I explore programming's wonders, aligning neural networks like stars. With zeal, I seek knowledge in the universe of code. 🌌✨<br><br>
 <br><br>🔭Currently exploring Generative AI and transformers<br><br>🌱 I’m curiously trying to enhance my skill at ML and web development<br><br>👨‍💻 All of my projects are available at https://github.com/HariSkr11?tab=repositories<br><br>💬 Ask me about Intermediate python<br><br>📫 How to reach me epicgeek11@gmail.com<br><br>⚡ My Motto is while(!(succeed=try())
 
 
